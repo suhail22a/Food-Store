@@ -1,7 +1,7 @@
 export const footer = () => {
     return (
         `<div id="footer">
-            <p class="text-center">Made with ❤️ by Suhail Ahhmad</p>
+            <p class="text-center">Made with ❤️ by Suhail Ahmad</p>
             <div>
                 <button class="btn btn-primary">
                     <a href="https://www.linkedin.com/in/suhailahmad786/" target="_blank">LinkedIn</a>
